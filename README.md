@@ -1,1 +1,3 @@
-# password_manager
+# パスワードマネージャー
+
+アプレンティスの提出QUESTです。
